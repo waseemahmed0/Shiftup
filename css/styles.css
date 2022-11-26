@@ -2,23 +2,23 @@
 
 @font-face {
   font-family: "FFShamelFamily";
-  src: url(/assets/Font/FFShamelFamily-SemiRoundMedium.ttf);
+  src: url(assets/Font/FFShamelFamily-SemiRoundMedium.ttf);
   
  
   
   
 }
 @font-face {font-family: "FFShamelFamilyB";
-  src: url(/assets/Font/FFShamelFamily-SemiRoundBold.ttf);
+  src: url(assets/Font/FFShamelFamily-SemiRoundBold.ttf);
  
 }
 
 @font-face {font-family: "FFShamelFamilyBO";
-  src: url(/assets/Font/FFShamelFamily-SemiRoundBook.ttf);
+  src: url(assets/Font/FFShamelFamily-SemiRoundBook.ttf);
  
 }
 @font-face {font-family: "FFShamelFamilyL";
-  src: url(/assets/Font/FFShamelFamily-SemiRoundLight.ttf);
+  src: url(assets/Font/FFShamelFamily-SemiRoundLight.ttf);
  
 }
 *{
